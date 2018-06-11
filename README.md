@@ -1,22 +1,21 @@
 # Tone-RomjanerOiRojarSheshe-Arduino
-Playing the famous song Romjaner Oi Rojar Sheshe with Arduino.
+### Playing the famous song Romjaner Oi Rojar Sheshe with Arduino.
 
-/* 
  * Romjaner Oi Rojar Sheshe Elo Khushur Eid - is a famous Eid-song by poet Kazi Nazrul Islam.
  * The following code plays the tune using Arduino and Buzzer/Speaker. 
- * 
+  
  * An Eid gift to Arduino lovers of Bangladesh! <3 
- * 
- * By-  
- * Munem Shahriar,   CSE, University of Rajshahi
- * Mohd.Ruhul Ameen, CSE, University of Rajshahi
- * Sadia Kabir Dina, CSE, RUET
- *   
- * 12 June 2018
- * Saidpur, Bangladesh
- */
+  
+ By-  
+  Munem Shahriar,   CSE, University of Rajshahi
+  Mohd.Ruhul Ameen, CSE, University of Rajshahi
+  Sadia Kabir Dina, CSE, RUET
+    
+ 12 June 2018
+ Saidpur, Bangladesh
+ 
 
-###Lyrics:
+### Lyrics:
 ও মন রমজানের ঐ রোজার শেষে এলো খুশীর ঈদ।
 তুই আপনাকে আজ বিলিয়ে দে শোন্‌ আসমানী তাগিদ।।
 
